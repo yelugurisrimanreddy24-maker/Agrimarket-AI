@@ -1,0 +1,8 @@
+.venv/
+.venv-fieldwise/
+__pycache__/
+*.py[cod]
+farmers.db
+farmers.db-shm
+farmers.db-wal
+.streamlit/secrets.toml
